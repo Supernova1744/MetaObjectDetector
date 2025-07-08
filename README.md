@@ -45,10 +45,10 @@ A PyTorch-based framework for few-shot object detection (FSOD) using both baseli
 
 ## Dataset Preparation
 
-This project uses the [FSOD dataset](https://github.com/ucbdrive/fsod).
+This project uses the [FSOD dataset](https://github.com/fanq15/Few-Shot-Object-Detection-Dataset).
 
 1. **Download the FSOD dataset:**
-   - Visit the [FSOD dataset GitHub page](https://github.com/ucbdrive/fsod) for download instructions.
+   - Visit the [FSOD dataset GitHub page](https://github.com/fanq15/Few-Shot-Object-Detection-Dataset) for download instructions.
    - Download the images and annotation files (e.g., `fsod_train.json`, `fsod_test.json`).
 
 2. **Organize your data directory:**
@@ -104,7 +104,7 @@ python train_maml.py
 ---
 
 ## References
-- **FSOD Dataset:** [https://github.com/ucbdrive/fsod](https://github.com/ucbdrive/fsod)
+- **FSOD Dataset:** [https://github.com/fanq15/Few-Shot-Object-Detection-Dataset](https://github.com/fanq15/Few-Shot-Object-Detection-Dataset)
 - **MAML Paper:** [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
 - **PyTorch:** [https://pytorch.org/](https://pytorch.org/)
 - **Learn2Learn:** [https://github.com/learnables/learn2learn](https://github.com/learnables/learn2learn)
