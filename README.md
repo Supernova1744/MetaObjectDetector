@@ -1,6 +1,6 @@
 # MetaObjectDetector
 
-A PyTorch-based framework for few-shot object detection (FSOD) using both baseline and MAML meta-learning approaches. This project leverages the [FSOD dataset](https://github.com/ucbdrive/fsod) and supports flexible episodic and standard training.
+A PyTorch-based framework for few-shot object detection (FSOD) using both baseline and MAML meta-learning approaches. This project leverages the [FSOD dataset](https://github.com/fanq15/Few-Shot-Object-Detection-Dataset) and supports flexible episodic and standard training.
 
 ---
 
